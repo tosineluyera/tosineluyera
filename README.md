@@ -10,6 +10,17 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/tosineluyera/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tosineluyera/azure-network-protocols)
   - [Basic DNS Configuration & Testing](https://github.com/tosineluyera/dns-config) 
+</ul>
+
+
+
+
+
+<h2>Tech skills:</h2>
+
+</ul>
+  
+  <li><b>Powershell,Nessus,Wireshark,SIEM systems,SQL</li>
 
 
 <h2>Certifications:</h2>
@@ -22,6 +33,7 @@
  
 
 <h2>Thank You for Visiting My Page!</h2>
+<p>I'm open to collaborations on cybersecurity,IT and open-source projects. Let's make the digital world safer together!</p>
 
 <h2>Connect with me:</h2>
 
